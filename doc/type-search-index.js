@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"elfp","l":"ElfFile"},{"p":"elfp","l":"ElfParser"},{"p":"elfp","l":"MyFuncs"},{"p":"elfp","l":"NotAnELFException"},{"p":"elfp","l":"WrongEndiannessException"}];updateSearchResults();
